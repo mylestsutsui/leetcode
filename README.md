@@ -8,3 +8,7 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 - \#107 Binary Tree Level Order Traversal II
 - \#111 Minimum Depth of a Binary Tree
+
+## Binary Search
+
+- \#34 Find First and Last Position of Element in Sorted Array

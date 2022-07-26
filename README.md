@@ -30,7 +30,7 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ## Stacks
 
--
+- \#682. Baseball Game
 
 ## Sliding Window
 

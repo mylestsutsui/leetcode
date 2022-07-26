@@ -13,3 +13,4 @@ This is a collection of the leetcode problems I have solved that are focused on 
 ## Binary Search
 
 - \#34. Find First and Last Position of Element in Sorted Array
+- \#704. Binary Search

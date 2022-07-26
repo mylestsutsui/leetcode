@@ -26,7 +26,7 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ## Linked Lists
 
--
+- \#203. Remove Linked List Elements
 
 ## Stacks
 

@@ -8,8 +8,11 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ### Trees
 
+- \#102. Binary Tree Level Order Traversal
+- \#103. Binary Tree Zigzag Level Order Traversal
 - \#107. Binary Tree Level Order Traversal II
 - \#111. Minimum Depth of a Binary Tree
+- \#199. Binary Tree Right Side View
 - \#559. Maximum Depth of N-ary Tree
 - \#993. Cousins in Binary Tree
 

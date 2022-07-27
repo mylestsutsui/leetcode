@@ -21,8 +21,12 @@ This is a collection of the leetcode problems I have solved that are focused on 
 ## Binary Search
 
 - \#34. Find First and Last Position of Element in Sorted Array
+- \#69. Sqrt(x)
 - \#278. First Bad Version
+- \#367. Valid Perfect Square
+- \#540. Single Element in a Sorted Array
 - \#704. Binary Search
+- \#1539. Kth Missing Positive Integer
 
 ## Linked Lists
 
@@ -49,7 +53,6 @@ This is a collection of the leetcode problems I have solved that are focused on 
 ## Two Pointers
 
 - \#167. Two Sum II - Input Array Is Sorted
-- \#367. Valid Perfect Square
 
 ## Backtracking
 

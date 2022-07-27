@@ -33,7 +33,12 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ## Linked Lists
 
+- \#21. Merge Two Sorted Lists
+- \#141. Linked List Cycle
 - \#203. Remove Linked List Elements
+- \#206. Reverse Linked List
+- \#237. Delete Node in a Linked List
+- \#876. Middle of the Linked List
 
 ## Stacks
 

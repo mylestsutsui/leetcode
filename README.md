@@ -46,7 +46,10 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ## Stacks
 
+- 🟩 \#20. Valid Parentheses
 - 🟩 \#682. Baseball Game
+- 🟩 \#844. Backspace String Compare
+- 🟩 \#1047. Remove All Adjacent Duplicates In String
 
 ## Sliding Window
 

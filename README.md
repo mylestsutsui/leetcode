@@ -47,6 +47,9 @@ This is a collection of the leetcode problems I have solved that are focused on 
 ## Stacks
 
 - 🟩 \#20. Valid Parentheses
+- 🟧 \#155. Min Stack
+- 🟩 \#234. Palindrome Linked List
+- 🟩 \#496. Next Greater Element I
 - 🟩 \#682. Baseball Game
 - 🟩 \#844. Backspace String Compare
 - 🟩 \#1047. Remove All Adjacent Duplicates In String

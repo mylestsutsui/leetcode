@@ -33,7 +33,9 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ## Linked Lists
 
+- 🟧 \#19. Remove Nth Node From End of List
 - 🟩 \#21. Merge Two Sorted Lists
+- 🟧 \#92. Reverse Linked List II
 - 🟩 \#141. Linked List Cycle
 - 🟩 \#203. Remove Linked List Elements
 - 🟩 \#206. Reverse Linked List

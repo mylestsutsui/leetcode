@@ -76,6 +76,8 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ## Two Pointers
 
+- 🟧 \#11. Container With Most Water
+- 🟧 \#15. 3Sum
 - 🟧 \#75. Sort Colors
 - 🟩 \#88. Merge Sorted Array
 - 🟩 \#125. Valid Palindrome

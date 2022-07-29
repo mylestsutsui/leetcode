@@ -76,7 +76,10 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ## Two Pointers
 
+- 🟩 \#125. Valid Palindrome
 - 🟧 \#167. Two Sum II - Input Array Is Sorted
+- 🟩 \#344. Reverse String
+- 🟩 \#345. Reverse Vowels of a String
 
 ## Backtracking
 

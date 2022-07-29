@@ -76,13 +76,16 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ## Two Pointers
 
+- 🟧 \#75. Sort Colors
 - 🟩 \#88. Merge Sorted Array
 - 🟩 \#125. Valid Palindrome
+- 🟧 \#142. Linked List Cycle II
 - 🟧 \#167. Two Sum II - Input Array Is Sorted
 - 🟩 \#283. Move Zeroes
 - 🟩 \#344. Reverse String
 - 🟩 \#345. Reverse Vowels of a String
 - 🟩 \#349. Intersection of Two Arrays
+- 🟩 \#1213. Intersection of Three Sorted Arrays
 
 ## Backtracking
 

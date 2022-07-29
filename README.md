@@ -48,12 +48,15 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 - 🟩 \#20. Valid Parentheses
 - 🟧 \#155. Min Stack
+- 🟧 \#227. Basic Calculator II
 - 🟩 \#234. Palindrome Linked List
 - 🟧 \#339. Nested List Weight Sum
 - 🟧 \#364. Nested List Weight Sum II
+- 🟧 \#394. Decode String
 - 🟩 \#496. Next Greater Element I
 - 🟩 \#682. Baseball Game
 - 🟧 \#735. Asteroid Collision
+- 🟧 \#739. Daily Temperatures
 - 🟩 \#844. Backspace String Compare
 - 🟩 \#1047. Remove All Adjacent Duplicates In String
 

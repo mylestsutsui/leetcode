@@ -74,7 +74,7 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ### Graphs
 
--
+- 🟩 \#1469. Find All The Lonely Nodes
 
 ## Two Pointers
 

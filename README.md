@@ -68,8 +68,10 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ### Trees
 
+- 🟩 \#100. Same Tree
 - 🟩 \#104. Maximum Depth of Binary Tree
 - 🟩 \#110. Balanced Binary Tree
+- 🟩 \#257. Binary Tree Paths
 - 🟧 \#426. Convert Binary Search Tree to Sorted Doubly Linked List
 
 ### Graphs

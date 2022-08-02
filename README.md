@@ -75,6 +75,8 @@ This is a collection of the leetcode problems I have solved that are focused on 
 - 🟩 \#226. Invert Binary Tree
 - 🟩 \#257. Binary Tree Paths
 - 🟧 \#426. Convert Binary Search Tree to Sorted Doubly Linked List
+- 🟧 \#1123. Lowest Common Ancestor of Deepest Leaves
+- 🟧 \#1448. Count Good Nodes in Binary Tree
 
 ### Graphs
 

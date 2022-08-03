@@ -77,6 +77,7 @@ This is a collection of the leetcode problems I have solved that are focused on 
 - 🟧 \#426. Convert Binary Search Tree to Sorted Doubly Linked List
 - 🟧 \#1123. Lowest Common Ancestor of Deepest Leaves
 - 🟧 \#1302. Deepest Leaves Sum
+- 🟧 \#1315. Sum of Nodes with Even-Valued Grandparent
 - 🟧 \#1448. Count Good Nodes in Binary Tree
 - 🟧 \#1457. Pseudo-Palindromic Paths in a Binary Tree (read disclaimer in file)
 

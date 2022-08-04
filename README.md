@@ -29,6 +29,7 @@ This is a collection of the leetcode problems I have solved that are focused on 
 - 🟩 \#367. Valid Perfect Square
 - 🟧 \#540. Single Element in a Sorted Array
 - 🟩 \#704. Binary Search
+- 🟧 \#1428. Leftmost Column with at Least a One
 - 🟩 \#1539. Kth Missing Positive Integer
 
 ## Linked Lists

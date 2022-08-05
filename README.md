@@ -23,6 +23,7 @@ This is a collection of the leetcode problems I have solved that are focused on 
 
 ## Binary Search
 
+- 🟧 \#29. Divide Two Integers
 - 🟧 \#34. Find First and Last Position of Element in Sorted Array
 - 🟩 \#69. Sqrt(x)
 - 🟩 \#278. First Bad Version

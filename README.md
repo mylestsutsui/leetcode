@@ -28,6 +28,7 @@ This is a collection of the leetcode problems I have solved that are focused on 
 - 🟩 \#69. Sqrt(x)
 - 🟩 \#278. First Bad Version
 - 🟩 \#367. Valid Perfect Square
+- 🟧 \#528. Random Pick with Weight
 - 🟧 \#540. Single Element in a Sorted Array
 - 🟩 \#704. Binary Search
 - 🟧 \#1428. Leftmost Column with at Least a One
